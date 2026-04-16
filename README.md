@@ -51,4 +51,5 @@ npm run dev
 - OpenAPI 契约导出到 `docs/api/openapi.json`
 - 前端类型通过 `frontend/src/generated/api.d.ts` 自动生成
 - 所有系统文档统一放在 `docs/` 子目录
+- LLM API 接入说明见 `docs/operations/llm-api-integration.md`
 - V2 设计文档放在 `docs/redesign/`
